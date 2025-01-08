@@ -1,0 +1,14 @@
+- name: verbal
+  translation: "口頭上的"
+  sentences:
+    - en: "The verbal agreement was not legally binding."
+      zh: "口頭協議在法律上不具約束力。"
+    - en: "The verbal warning was not enough to deter the thief."
+      zh: "口頭警告不足以阻止小偷。"
+  synonyms:
+    - name: oral
+      translation: "口頭上的"
+    - name: spoken
+      translation: "口頭上的"
+    - name: unwritten
+      translation: "口頭上的"
